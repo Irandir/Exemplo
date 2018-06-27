@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/bibliotecas java/encog-core-3.4.jar" sourcepath="C:/bibliotecas java/encog-java-core-master"/>
+	<classpathentry kind="lib" path="C:/bibliotecas java/encog-java-core-master.zip"/>
+	<classpathentry kind="lib" path="C:/bibliotecas java/encog-workbench-3.4.0-all.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
